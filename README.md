@@ -5,4 +5,5 @@
 **Project Live Here: https://itsmayank0.github.io/MyPortfolio/**   
 
 </br>
-**Note:**  Website may load slower beacuse they are hosted on free hosting...
+
+**Note: Website may load slower beacuse they are hosted on free hosting...**
